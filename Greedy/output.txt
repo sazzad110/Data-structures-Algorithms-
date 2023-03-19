@@ -1,0 +1,9 @@
+Please enter item's corresponding value and weight
+taking :gold-dust :8
+taking :silver-dust :4
+taking :sugar :1.5
+theif1profit: 2326.7
+taking :gold-dust :8
+taking :silver-dust :4
+taking :sugar :1.5
+theif2profit: 2326.7
